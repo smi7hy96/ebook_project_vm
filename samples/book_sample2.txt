@@ -1,0 +1,220 @@
+
+
+title
+author
+release_date
+genre
+description
+cover   (link)
+
+--------------------------------
+1
+title			Homo Deus
+author			Yuval Noah Harari
+release_date		2017
+genre			Non-Fiction
+cover   (link)		"https://images-na.ssl-images-amazon.com/images/I/71FX96Ae-PL.jpg"
+
+description		Sapiens showed us where we came from. Homo Deus shows us where we're going. War is obsolete. You are more likely to commit suicide than be killed in conflict. Famine is disappearing. You are at more risk of obesity than starvation. Death is just a technical problem. Equality is out - but immortality is in. What does our future hold? Yuval Noah Harari, author of the bestselling phenomenon Sapiens envisions a not-too-distant world in which we face a new set of challenges. Homo Deus explores the projects, dreams and nightmares that will shape the twenty-first century - from overcoming death to creating artificial life. It asks the fundamental questions: Where do we go from here? And how will we protect this fragile world from our own destructive powers? 'Homo Deus will shock you. It will entertain you. Above all, it will make you think in ways you had not thought before'. (Daniel Kahneman, author of Thinking Fast, and Slow).
+
+
+--------------------------------
+2
+title			Sapiens
+author			Yuval Noah Harari
+release_date		2015
+genre			Non-Fiction
+cover    (link)		https://i.harperapps.com/covers/9780062316097/x298.jpg
+
+description		Three important revolutions shaped the course of history: the Cognitive Revolution kick-started history about 70,000 years ago. The Agricultural Revolution sped it up about 12,000 years ago. The Scientific Revolution, which got under way only 500 years ago, may well end history and start something completely different. This book tells the story of how these three revolutions have affected humans and their fellow organisms.
+
+
+--------------------------------
+3
+title			The Martian
+author			Andy Wier
+release_date		2011
+genre			Science-Fiction
+cover			https://static01.nyt.com/images/2014/02/05/books/05before-and-after-slide-T6H2/05before-and-after-slide-T6H2-superJumbo.jpg?quality=75&auto=webp&disable=upscale
+
+description		Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.
+
+Now, he's sure he'll be the first person to die there.
+
+After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive – and even if he could get word out, his supplies would be gone long before a rescue could arrive.
+
+Chances are, though, he won't have time to starve to death. Damaged machinery, the unforgiving environment, or plain old "human error" are much more likely to kill him first.
+
+But Mark isn't ready to give up yet. Drawing on his ingenuity, his engineering skills and a relentless, dogged refusal to quit, he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?
+
+
+--------------------------------
+4
+title			The Nickel Boys 
+author			 Colson Whitehead
+release_date		30 Jun 2020
+genre			Fiction
+cover    (link)		https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/mid/9780/7088/9780708899427.jpg
+
+description
+Time #1 Novel of the Year 2019
+
+'If greatness is excellence sustained over time, then without question, Whitehead is one of the greatest of his generation. In fact, figuring his age, acclaim, productivity and consistency, he is one of the greatest American writers alive' Time
+
+'A commanding triumph' Sunday Times
+
+'Every chapter hits its mark' New York Times
+
+'A real page-turner' Mail on Sunday
+
+
+--------------------------------
+5
+title			Walk the Wire
+author			David Baldacci
+release_date		16 Apr 2020
+genre			Fiction 
+cover    (link)		https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5098/9781509874521.jpg
+
+description
+Remember his name: FBI Agent Amos Decker is back in a brand new thrilling memory man investigation from number 1 bestseller, David Baldacci.
+
+A town with a secret.
+
+A lone hunter discovers the remains of a woman in North Dakota's Badlands. She appears to have had a post-mortem performed on her reminiscent of those only seen on TV shows - but this time, there was no slab, morgue or camera in sight.
+
+
+--------------------------------
+6
+title			The Boy, The Mole, The Fox and The Horse
+author			Charlie Mackesy
+release_date		04 Nov 2019
+genre			Non-Fiction
+cover    (link)		https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5291/9781529105100.jpg
+
+description
+Discover the very special book that has captured the hearts of millions of readers all over the world.
+
+'Feeling a little blue? Meet the new Winnie the Pooh.' The Daily Mail
+'A wonderful work of art and a wonderful window into the human heart' Richard Curtis
+
+A book of hope for uncertain times.
+
+
+--------------------------------
+7
+title			Damascus
+author			Christos Tsiolkas
+release_date		05 Mar 2020
+genre			Fiction
+cover    (link)		https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8389/9781838950217.jpg
+
+description
+'We are despised, yet we grow. We are tortured and crucified and yet we flourish. We are hated and still we multiply. Why is that? You must wonder, how is it we survive?'
+
+In a far corner of the Roman Empire, a radical sect is growing.
+
+Alone, unloved and battling his sexuality, Saul scrapes together a living exposing these nascent Christians, but on the road to Damascus, everything changes.
+
+
+--------------------------------
+8
+title			Vox
+author			Christina Dalcher
+release_date		2019
+genre			Fiction, Thriller
+Cover			https://images-na.ssl-images-amazon.com/images/I/71tApYCEslL.jpg
+
+description		Silence can be deafening.
+
+Jean McClellan spends her time in almost complete silence, limited to just one hundred words a day. Any more, and a thousand volts of electricity will course through her veins.
+
+Now the new government is in power, everything has changed. But only if you're a woman.
+
+Almost overnight, bank accounts are frozen, passports are taken away and seventy million women lose their jobs. Even more terrifyingly, young girls are no longer taught to read or write.
+
+
+--------------------------------
+9
+title			The Secret Life of Cows
+author			Rosamund Young
+release_date		2003
+genre			Non-Fiction, Nature
+cover			https://images-na.ssl-images-amazon.com/images/I/91Bou9cQTFL.jpg
+
+description		Rosamund Young and her family have been farming for decades and have a very different approach to sharing their lives with animals than those who farm more 'intensively'. Their organic, animal-centred, respectful approach to farming is deeply moving. In 'The Secret Life of Cows', Young tells a series of anecdotes about the family herd, illustrating the intelligence, humour, and affection of cows (and the odd sheep, pig or chicken).
+
+--------------------------------
+10
+title			Wilding
+author			Isabella Tree
+release_date		2019
+genre			Non-Fiction, Nature
+cover			https://images-na.ssl-images-amazon.com/images/I/91Eme3ByvFL.jpg
+
+description		In Wilding, Isabella Tree tells the story of the ‘Knepp experiment’, a pioneering rewilding project in West Sussex, using free-roaming grazing animals to create new habitats for wildlife. Part gripping memoir, part fascinating account of the ecology of our countryside, Wilding is, above all, an inspiring story of hope.
+
+Forced to accept that intensive farming on the heavy clay of their land at Knepp was economically unsustainable, Isabella Tree and her husband Charlie Burrell made a spectacular leap of faith: they decided to step back and let nature take over. Thanks to the introduction of free-roaming cattle, ponies, pigs and deer – proxies of the large animals that once roamed Britain – the 3,500 acre project has seen extraordinary increases in wildlife numbers and diversity in little over a decade.
+
+Extremely rare species, including turtle doves, nightingales, peregrine falcons, lesser spotted woodpeckers and purple emperor butterflies, are now breeding at Knepp, and populations of other species are rocketing. The Burrells’ degraded agricultural land has become a functioning ecosystem again, heaving with life – all by itself.
+
+Personal and inspirational, Wilding is an astonishing account of the beauty and strength of nature, when it is given as much freedom as possible.
+
+
+--------------------------------
+11
+title			Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
+author			Peter Godfrey-Smith
+release_date		2016
+genre			Non-Fiction
+cover			https://www.elldubs.net/Lists/otherminds.jpg
+
+description		What if intelligent life on Earth evolved not once, but twice? The octopus is the closest we will come to meeting an intelligent alien. What can we learn from the encounter?
+
+In Other Minds, Peter Godfrey-Smith, a distinguished philosopher of science and a skilled scuba diver, tells a bold new story of how nature became aware of itself - a story that largely occurs in the ocean, where animals first appeared.
+
+Tracking the mind's fitful development from unruly clumps of seaborne cells to the first evolved nervous systems in ancient relatives of jellyfish, he explores the incredible evolutionary journey of the cephalopods, which began as inconspicuous molluscs who would later abandon their shells to rise above the ocean floor, searching for prey and acquiring the greater intelligence needed to do so - a journey completely independent from the route that mammals and birds would later take.
+
+
+--------------------------------
+12
+title			The Hobbit
+author			JRR Tolkein
+release_date		1937
+genre			Fiction, Fantasy
+cover			https://images-na.ssl-images-amazon.com/images/I/51FCE5VMsWL._SX324_BO1,204,203,200_.jpg
+
+description		The Hobbit is the unforgettable story of Bilbo, a peace-loving hobbit, who embarks on a strange and magical adventure.
+
+A timeless classic.
+
+Bilbo Baggins enjoys a quiet and contented life, with no desire to travel far from the comforts of home; then one day the wizard Gandalf and a band of dwarves arrive unexpectedly and enlist his services – as a burglar – on a dangerous expedition to raid the treasure-hoard of Smaug the dragon. Bilbo’s life is never to be the same again.
+
+Seldom has any book been so widely read and loved as J. R.R. Tolkien’s classic tale, ‘The Hobbit’. Since its first publication in 1937 it has remained in print to delight each new generation of readers all over the world, and its hero, Bilbo Baggins, has taken his place among the ranks of the immortals of fiction.
+
+
+--------------------------------
+13
+title			An Astronaut's Guide To Life On Earth
+author			Chris Hadfield
+release_date		2013
+genre			Non-Fiction
+cover			https://images-na.ssl-images-amazon.com/images/I/51EahyswmzL._SX332_BO1,204,203,200_.jpg
+
+description		An Astronaut's Guide to Life on Earth is an inspirational memoir of space exploration and hard-won wisdom, from an astronaut who has spent a lifetime making the impossible a reality. 
+
+Colonel Chris Hadfield has spent decades training as an astronaut and has logged nearly 4,000 hours in space. During this time he has broken into a Space Station with a Swiss army knife, disposed of a live snake while piloting a plane, been temporarily blinded while clinging to the exterior of an orbiting spacecraft, and become a YouTube sensation with his performance of David Bowie's ‘Space Oddity' in space. The secret to Chris Hadfield's success - and survival - is an unconventional philosophy he learned at NASA: prepare for the worst - and enjoy every moment of it. 
+
+In his book, An Astronaut's Guide to Life on Earth, Chris Hadfield takes listeners deep into his years of training and space exploration to show how to make the impossible possible. Through eye-opening, entertaining stories filled with the adrenaline of launch, the mesmerising wonder of spacewalks and the measured, calm responses mandated by crises, he explains how conventional wisdom can get in the way of achievement - and happiness. 
+
+His own extraordinary education in space has taught him some counterintuitive lessons: don't visualize success, do care what others think, and always sweat the small stuff. You might never be able to build a robot, pilot a spacecraft, make a music video or perform basic surgery in zero gravity like Colonel Hadfield. But his vivid and refreshing insights in this book will teach you how to think like an astronaut, and will change, completely, the way you view life on Earth - especially your own.
+
+--------------------------------
+14
+title			Moby Dick
+author			Herman Melville
+release_date		1851
+genre			Fiction
+cover			https://images-na.ssl-images-amazon.com/images/I/41VnFKC9srL._SX346_BO1,204,203,200_.jpg
+
+description		Ishmael, the narrator, announces his intent to ship aboard a whaling vessel. He has made several voyages as a sailor but none as a whaler. He travels to New Bedford, Massachusetts, where he stays in a whalers’ inn. Since the inn is rather full, he has to share a bed with a harpooner from the South Pacific named Queequeg. At first repulsed by Queequeg’s strange habits and shocking appearance (Queequeg is covered with tattoos), Ishmael eventually comes to appreciate the man’s generosity and kind spirit, and the two decide to seek work on a whaling vessel together. They take a ferry to Nantucket, the traditional capital of the whaling industry. There they secure berths on the Pequod, a savage-looking ship adorned with the bones and teeth of sperm whales. Peleg and Bildad, the Pequod’s Quaker owners, drive a hard bargain in terms of salary. They also mention the ship’s mysterious captain, Ahab, who is still recovering from losing his leg in an encounter with a sperm whale on his last voyage.
